@@ -1,0 +1,17 @@
+
+.textik{
+	color: green;
+	height: 40px;
+	background: rgb(27,78,204);
+background: linear-gradient(0deg, rgba(27,78,204,1) 0%, rgba(240,221,0,1) 52%, rgba(255,0,0,1) 100%);
+border-radius: 10px;
+}
+
+.text:hover{
+	color: purple;
+}
+.beauty {
+	background: rgb(204,184,27);
+background: linear-gradient(0deg, rgba(204,184,27,1) 0%, rgba(38,187,125,1) 53%, rgba(138,19,173,1) 97%);
+
+}
